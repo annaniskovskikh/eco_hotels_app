@@ -1,0 +1,35 @@
+Barcelone	Barcelona
+Milan	Milan
+Rome	Rome
+Madrid	Madrid
+Venise	Venice
+Turin	Turin
+Lisbonne	lisboa
+Grenade	Granada
+Saint Sébastien	San Sebastian
+Las palmas de gran canaria	Las Palmas de Gran Canaria
+Seville	Sevilla
+Valence	Valencia
+Marseille	Marseille
+Lyon	Lyon
+Nice	nice
+Bruxelles	Brussels
+Amsterdam	Amsterdam
+Berlin	Berlin
+Londres	London
+Vienne	Vienna
+Munich	Munich
+Genève	Geneva
+Dublin	Dublin
+Francfort	Frankfurt
+Buenos Aires	Buenos Aires
+New_york	new_york
+Bogota	Bogota
+Mexico	Mexico+DF
+Port_au_prince	port_au_prince
+Monterrey	Monterrey
+Santiago	Santiago+de+Chile
+Mar-del-plata	Mar+del+Plata
+La-havane	la_habana
+Quito	Quito
+Santiago_de_compostela	Santiago de Compostela

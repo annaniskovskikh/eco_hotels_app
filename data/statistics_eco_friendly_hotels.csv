@@ -1,0 +1,172 @@
+City	Hotel title	Status ECO
+Barcelone	NH Collection Barcelona Gran Hotel Calderón	YES
+Barcelone	NH Sants Barcelona	YES
+Barcelone	NH Barcelona Les Corts	no
+Barcelone	NH Collection Barcelona Constanza	YES
+Barcelone	NH Collection Barcelona Pódium	YES
+Barcelone	NH Barcelona Eixample	YES
+Barcelone	NH Barcelona Diagonal Center	no
+Barcelone	NH Barcelona Entenza	no
+Barcelone	NH Barcelona Stadium	YES
+Barcelone	NH Porta Barcelona	YES
+Barcelone	NH Sant Boi	no
+Milan	NH Milano Touring	YES
+Milan	NH Collection Milano President	YES
+Milan	nhow Milano	YES
+Milan	NH Collection Milano Porta Nuova	YES
+Milan	NH Milano Palazzo Moscova	YES
+Milan	NH Milano Machiavelli	YES
+Milan	NH Milano Concordia	YES
+Milan	NH Milano Congress Centre	no
+Milan	NH Milano 2 Residence	YES
+Milan	NH Milano Fiera	YES
+Milan	NH Milano 2	YES
+Milan	NH Linate	YES
+Rome	NH Collection Roma Palazzo Cinquecento	YES
+Rome	NH Collection Roma Giustiniano	YES
+Rome	NH Collection Roma Centro	YES
+Rome	Anantara Palazzo Naiadi Rome Hotel	no
+Rome	NH Collection Roma Vittorio Veneto	YES
+Rome	NH Collection Roma Fori Imperiali	YES
+Rome	NH Roma Villa Carpegna	YES
+Madrid	NH Collection Madrid Gran Vía	no
+Madrid	NH Collection Madrid Eurobuilding	YES
+Madrid	NH Collection Madrid Suecia	YES
+Madrid	NH Collection Madrid Colón	YES
+Madrid	NH Madrid Nacional	YES
+Madrid	NH Madrid Zurbano	YES
+Madrid	NH Madrid Alonso Martínez	YES
+Madrid	NH Madrid Lagasca	no
+Madrid	NH Madrid Ribera del Manzanares	YES
+Madrid	NH Madrid Príncipe de Vergara	no
+Madrid	NH Madrid Chamberí	no
+Madrid	NH Madrid Paseo de la Habana	no
+Madrid	NH Collection Madrid Palacio de Tepa	YES
+Madrid	NH Collection Madrid Paseo del Prado	YES
+Madrid	NH Collection Madrid Abascal	YES
+Madrid	NH Madrid Atocha	no
+Madrid	NH Madrid Balboa	no
+Madrid	NH Madrid Ventas	YES
+Madrid	NH Madrid Sur	no
+Madrid	NH Madrid Las Tablas	no
+Madrid	NH Madrid Barajas Airport	no
+Madrid	NH Collection Palacio de Aranjuez	YES
+Madrid	NH Alcorcón	no
+Madrid	NH Pozuelo Ciudad de la Imagen	no
+Madrid	NH Villa de Coslada	no
+Madrid	NH Leganés	no
+Venise	NH Venezia Laguna Palace	YES
+Venise	NH Venezia Santa Lucia	no
+Venise	NH Venezia Rio Novo	YES
+Venise	NH Collection Venezia Grand Hotel Palazzo dei Dogi	no
+Venise	NH Collection Venezia Murano Villa	no
+Turin	NH Collection Torino Piazza Carlina	no
+Turin	NH Torino Santo Stefano	YES
+Turin	NH Torino Lingotto Congress	no
+Turin	NH Torino Centro	no
+Lisbonne	Tivoli Avenida Liberdade Lisboa	no
+Lisbonne	NH Collection Lisboa Liberdade	no
+Lisbonne	Tivoli Oriente Lisboa	YES
+Lisbonne	NH Lisboa Campo Grande	no
+Lisbonne	Avani Avenida Liberdade Lisbon	no
+Lisbonne	Tivoli Palácio de Seteais	no
+Lisbonne	Tivoli Sintra	YES
+Las palmas de gran canaria	NH Imperial Playa	no
+Las palmas de gran canaria	NH Las Palmas Playa Las Canteras	no
+Seville	NH Sevilla Plaza de Armas	YES
+Seville	NH Collection Sevilla	YES
+Valence	NH Collection Valencia Colón	no
+Valence	NH Valencia Center	no
+Valence	NH Valencia Las Artes	no
+Valence	NH Valencia Las Ciencias	no
+Valence	NH Ciudad de Valencia	no
+Marseille	NH Collection Marseille	no
+Marseille	nhow Marseille	no
+Bruxelles	NH Collection Brussels Grand Sablon	YES
+Bruxelles	NH Brussels Carrefour Europe	YES
+Bruxelles	NH Brussels Airport	YES
+Bruxelles	nhow Brussels Bloom	YES
+Bruxelles	NH Collection Brussels Centre	YES
+Bruxelles	NH Brussels Grand Place Arenberg	YES
+Bruxelles	NH Brussels EU Berlaymont	YES
+Bruxelles	NH Brussels Louise	YES
+Bruxelles	NH Brussels Stéphanie	YES
+Bruxelles	NH Mechelen	YES
+Amsterdam	NH Collection Amsterdam Barbizon Palace	YES
+Amsterdam	nhow Amsterdam RAI	no
+Amsterdam	NH Collection Amsterdam Grand Hotel Krasnapolsky	YES
+Amsterdam	NH City Centre Amsterdam	YES
+Amsterdam	NH Amsterdam Schiphol Airport	YES
+Amsterdam	NH Amsterdam Noord	YES
+Amsterdam	NH Collection Amsterdam Doelen	YES
+Amsterdam	NH Collection Amsterdam Flower Market	YES
+Amsterdam	NH Amsterdam Schiller	YES
+Amsterdam	NH Amsterdam Centre	YES
+Amsterdam	NH Amsterdam Caransa	YES
+Amsterdam	NH Amsterdam Museum Quarter	YES
+Amsterdam	NH Amsterdam Zuid	YES
+Amsterdam	NH Naarden	YES
+Amsterdam	NH Bussum Jan Tabak	YES
+Amsterdam	NH Noordwijk Conference Centre Leeuwenhorst	YES
+Berlin	NH Collection Berlin Mitte Friedrichstrasse	YES
+Berlin	NH Collection Berlin Mitte am Checkpoint Charlie	YES
+Berlin	NH Berlin Potsdamer Platz	YES
+Berlin	NH Berlin Kurfürstendamm	YES
+Berlin	nhow Berlin	YES
+Berlin	NH Berlin Alexanderplatz	YES
+Berlin	NH Berlin City Ost	no
+Berlin	NH Potsdam	YES
+Londres	NH London Kensington	YES
+Londres	nhow London	YES
+Vienne	NH Collection Wien Zentrum	YES
+Vienne	NH Vienna Airport Conference Center	YES
+Vienne	NH Wien City	YES
+Vienne	NH Danube City	YES
+Vienne	NH Wien Belvedere	YES
+Munich	NH Collection München Bavaria	YES
+Munich	NH München Airport	YES
+Munich	NH München Messe	YES
+Munich	NH München City Süd	YES
+Munich	NH München Ost Conference Center	YES
+Munich	NH München Unterhaching	YES
+Genève	NH Geneva City	no
+Genève	NH Geneva Airport	YES
+Francfort	NH Collection Frankfurt City	YES
+Francfort	NH Frankfurt Airport	YES
+Francfort	NH Frankfurt Messe	YES
+Francfort	NH Frankfurt Villa	no
+Francfort	NH Frankfurt Niederrad	YES
+Francfort	NH Frankfurt Mörfelden Conference Center	YES
+Francfort	NH Frankfurt Airport West	YES
+Buenos aires	NH Collection Buenos Aires Crillon	no
+Buenos aires	NH Collection Buenos Aires Jousten	YES
+Buenos aires	NH Collection Buenos Aires Centro Histórico	no
+Buenos aires	NH Buenos Aires 9 de Julio	YES
+Buenos aires	NH Buenos Aires City	no
+Buenos aires	NH Buenos Aires Tango	YES
+Buenos aires	NH Buenos Aires Latino	no
+Buenos aires	NH Collection Buenos Aires Lancaster	YES
+Buenos aires	NH Buenos Aires Florida	no
+Bogota	NH Collection Bogotá Teleport Royal	YES
+Bogota	NH Collection Bogotá Andino Royal	YES
+Bogota	NH Bogotá Urban 93 Royal	no
+Bogota	NH Bogotá Urban 26 Royal	no
+Bogota	NH Collection Bogotá Hacienda Royal	YES
+Bogota	NH Collection Bogotá Terra 100 Royal	YES
+Bogota	NH Collection Bogotá WTC Royal	YES
+Bogota	NH Bogotá Pavillon Royal	no
+Bogota	NH Bogotá Boheme Royal	YES
+Mexico	NH Collection Mexico City Reforma	no
+Mexico	NH Collection Mexico City Centro Histórico	YES
+Mexico	NH Collection Mexico City Airport T2	no
+Mexico	NH Collection Mexico City Santa Fe	no
+Mexico	NH Mexico City Valle Dorado	no
+Monterrey	NH Collection Monterrey San Pedro	no
+Monterrey	NH Monterrey La Fe	no
+Santiago	NH Collection Plaza Santiago	no
+Santiago	NH Collection Santiago Casacostanera	no
+Santiago	NH Ciudad de Santiago	no
+Mar-del-plata	NH Gran Hotel Provincial	no
+Mar-del-plata	NH Hotel Casino	no
+La-havane	NH Capri La Habana	no
+La-havane	NH Collection Victoria La Habana	no
